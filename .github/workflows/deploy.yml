@@ -34,4 +34,4 @@ jobs:
           context: .
           file: ./Dockerfile
           push: true
-          tags: mbautistapiramide/videogames:latest
+          tags: andresvacapiramide69/image-despliegue:latest
