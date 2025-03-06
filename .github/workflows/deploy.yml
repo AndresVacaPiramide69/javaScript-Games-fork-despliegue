@@ -34,4 +34,4 @@ jobs:
           context: .
           file: ./Dockerfile
           push: true
-          tags: andresvacapiramide69/image-despliegue:latest
+          tags: andresvacapiramide69/image-despliegue:nginx
